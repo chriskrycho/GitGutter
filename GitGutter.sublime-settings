@@ -115,5 +115,14 @@
   ],
 
   // The gutter theme defines the icons to show for the different events.
+  // 
+  // Available themes are:
+  // 
+  // - Default.gitgutter-theme
+  // - Default HiDPI.gitgutter-theme
+  // - Bars.gitgutter-theme
+  // - Bars Right.gitgutter-theme
+  // - Bars Thin.gitgutter-theme
+  // - Bars Thin Right.gitgutter-theme
   "theme": "Default.gitgutter-theme"
 }
